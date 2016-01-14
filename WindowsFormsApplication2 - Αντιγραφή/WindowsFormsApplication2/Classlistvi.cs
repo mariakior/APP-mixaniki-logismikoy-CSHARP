@@ -22,8 +22,9 @@ namespace WindowsFormsApplication2
         public int len = 0;
         byte[] ImageData;
         
-        public void data()
+        public int data()
         {
+            int res=1;
             MySqlConnection connection = new MySqlConnection(MyConnect);
             try
             {
@@ -48,12 +49,15 @@ namespace WindowsFormsApplication2
                         table[i, 5] = dataReader.GetString("Thesh");
                         table[i, 6] = dataReader.GetString("Available");
                         i++;
+                        res = 0;
                     }
                     len = i;
                 }
                 else {
 
                     System.Windows.Forms.MessageBox.Show("connect error");
+                    res= 1;
+                    
                 }
 
 
@@ -71,12 +75,13 @@ namespace WindowsFormsApplication2
 
             }
 
-
+            return res;
 
         }
 
-        public void store()
+        public int store()
         {
+            int res = 1;
             MySqlConnection connection = new MySqlConnection(MyConnect);
             try
             {
@@ -97,7 +102,7 @@ namespace WindowsFormsApplication2
                         stortable[i, 1] = dataReader.GetString("storspace");
                         stortable[i, 2] = dataReader.GetString("storitems");
                         stortable[i, 3] = dataReader.GetString("storcode");
-
+                        res = 0;
                         i++;
                     }
                     storlen = i;
@@ -105,6 +110,7 @@ namespace WindowsFormsApplication2
                 else {
 
                     System.Windows.Forms.MessageBox.Show("connect error");
+                    res = 1;
                 }
 
 
@@ -121,7 +127,7 @@ namespace WindowsFormsApplication2
 
 
             }
-
+            return res;
         }
 
         public void storinsert(int val, string pos)
@@ -156,10 +162,10 @@ namespace WindowsFormsApplication2
 
         }
 
-        public void log()
+        public int log()
         {
             MySqlConnection connection = new MySqlConnection(MyConnect);
-
+            int res = 1;
             try
             {
 
@@ -181,7 +187,7 @@ namespace WindowsFormsApplication2
                         pertable[i, 3] = dataReader.GetString("Username");
                         pertable[i, 4] = dataReader.GetString("Upassword");
                         pertable[i, 5] = dataReader.GetString("Admin");
-
+                        res = 0;
                         i++;
                     }
                     perlen = i;
@@ -189,6 +195,7 @@ namespace WindowsFormsApplication2
                 else {
 
                     System.Windows.Forms.MessageBox.Show("connect error");
+                    res = 1;
                 }
 
 
@@ -205,7 +212,7 @@ namespace WindowsFormsApplication2
 
 
             }
-
+            return res;
 
         }
 
@@ -360,8 +367,9 @@ namespace WindowsFormsApplication2
             }
         }
 
-        public void scan()
+        public int scan()
         {
+            int res = 1;
             data();
             store();
             int j = 0;
@@ -404,23 +412,31 @@ namespace WindowsFormsApplication2
                 MySqlConnection conn = new MySqlConnection(MyConnect);
                 MySqlCommand cmd;
                 conn.Open();
-                try
+                if (conn.State == ConnectionState.Open)
                 {
-                    cmd = conn.CreateCommand();
-                    cmd.CommandText = "UPDATE `Store-information`SET `storitems` = @sv WHERE `storname` = @sp";
-                    cmd.Parameters.AddWithValue("@sv", stortable[i, 2]);
-                    cmd.Parameters.AddWithValue("@sp", stortable[i, 0]);
-                    cmd.ExecuteNonQuery();
+                    try
+                    {
+                        cmd = conn.CreateCommand();
+                        cmd.CommandText = "UPDATE `Store-information`SET `storitems` = @sv WHERE `storname` = @sp";
+                        cmd.Parameters.AddWithValue("@sv", stortable[i, 2]);
+                        cmd.Parameters.AddWithValue("@sp", stortable[i, 0]);
+                        cmd.ExecuteNonQuery();
+                        res = 0;
+                    }
+                    catch (Exception)
+                    {
+                        throw;
+                    }
+                    finally
+                    {
+                        conn.Close();
+                    }
                 }
-                catch (Exception)
-                {
-                    throw;
-                }
-                finally
-                {
-                    conn.Close();
+                else {
+                    res = 1;
                 }
             }
+            return res;
         }
 
         public void addnewobj(string txtBox2Txt, string txtBox3Txt, string txtBox4Txt, string cmbBox1Text , string txtBox6Txt, string label7Txt)
@@ -468,7 +484,33 @@ namespace WindowsFormsApplication2
             }
         }
 
-      
+        public void deleteitems(string tecode)
+        {
+
+            //diagrafi proiontos
+            MySqlConnection conn = new MySqlConnection(MyConnect);
+            MySqlCommand cmd;
+            conn.Open();
+            try
+            {
+
+                cmd = conn.CreateCommand();
+                cmd.CommandText = "DELETE FROM `storage` WHERE Code = @code";
+                cmd.Parameters.AddWithValue("@code", tecode);
+                cmd.ExecuteNonQuery();
+
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+            finally
+            {
+
+                conn.Close();
+            }
+        }
+
     }
-}  
+}
 //Nikolas Papazian 41785

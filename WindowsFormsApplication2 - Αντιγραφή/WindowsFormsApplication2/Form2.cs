@@ -191,21 +191,16 @@ namespace WindowsFormsApplication2
 
                 do
                 {
+                    label25.Size = new System.Drawing.Size(797, 450);
+                    label25.Visible = true;
+                    label25.BringToFront();
+
                     if (textBox7.Text == dedomena.table[i, 0] & textBox8.Text == dedomena.table[i, 1] & textBox9.Text == dedomena.table[i, 3])
                     {
-                        //diagrafi proiontos
-                        MySqlConnection conn = new MySqlConnection(MyConnect);
-                        MySqlCommand cmd;
-                        conn.Open();
-                        try
-                        {
-                            label25.Size = new System.Drawing.Size(797, 450);
-                            label25.Visible = true;
-                            label25.BringToFront();
-                            cmd = conn.CreateCommand();
-                            cmd.CommandText = "DELETE FROM `storage` WHERE ElectronicID = @ElectronicID";
-                            cmd.Parameters.AddWithValue("@ElectronicID", textBox7.Text);
-                            cmd.ExecuteNonQuery();
+                        //diagrafi proiontos apo ton kodiko toy
+                            dedomena.deleteitems(textBox9.Text);
+                          
+                            
                             MessageBox.Show("you deleted a item ");
                             textBox7.Text = "";
                             textBox8.Text = "";
@@ -213,18 +208,7 @@ namespace WindowsFormsApplication2
                             pictureBox2.Visible = false;
                             tableintialazi();
                             label25.Size = new System.Drawing.Size(50, 50);
-                        }
-                        catch (Exception)
-                        {
-                            throw;
-                        }
-                        finally
-                        {
-                            
-                            conn.Close();
-
-                            
-                        }
+                       
                         break;
 
                     }
