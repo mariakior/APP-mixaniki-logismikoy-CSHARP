@@ -1,0 +1,27 @@
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\win8\Electronic Storage.exe.config
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\win8\Electronic Storage.exe
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\win8\Electronic Storage.pdb
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\win8\Aspose.Diagram.dll
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\win8\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.dll
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\win8\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.EventSourceAnalyzer.dll
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\win8\MySql.Data.dll
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\win8\NetOffice.dll
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\win8\OfficeApi.dll
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\win8\System.Net.Http.Extensions.dll
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\win8\System.Net.Http.Primitives.dll
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\win8\VBIDEApi.dll
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\win8\stdole.dll
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\win8\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.xml
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\win8\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.EventSourceAnalyzer.xml
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\win8\NetOffice.xml
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\win8\OfficeApi.xml
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\win8\System.Net.Http.Extensions.xml
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\win8\System.Net.Http.Primitives.xml
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\win8\VBIDEApi.xml
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\win8\WindowsFormsApplication2.Form1.resources
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\win8\WindowsFormsApplication2.Form2.resources
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\win8\WindowsFormsApplication2.Form3.resources
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\win8\WindowsFormsApplication2.Properties.Resources.resources
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\win8\Electronic Storage.csproj.GenerateResource.Cache
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\win8\Electronic Storage.exe
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\win8\Electronic Storage.pdb
