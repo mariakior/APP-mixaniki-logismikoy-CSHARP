@@ -1,0 +1,29 @@
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe.config
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.exe
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.pdb
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.exe
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Release\WindowsFormsApplication2.pdb
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Release\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.dll
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Release\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.EventSourceAnalyzer.dll
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Release\MySql.Data.dll
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Release\NetOffice.dll
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Release\OfficeApi.dll
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Release\System.Net.Http.Extensions.dll
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Release\System.Net.Http.Primitives.dll
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Release\VBIDEApi.dll
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Release\stdole.dll
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Release\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.xml
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Release\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.EventSourceAnalyzer.xml
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Release\NetOffice.xml
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Release\Newtonsoft.Json.xml
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Release\OfficeApi.xml
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Release\System.Net.Http.Extensions.xml
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Release\System.Net.Http.Primitives.xml
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Release\VBIDEApi.xml
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\Release\Electronic Storage.csprojResolveAssemblyReference.cache
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form1.resources
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form2.resources
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Form3.resources
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\Release\WindowsFormsApplication2.Properties.Resources.resources
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\Release\Electronic Storage.csproj.GenerateResource.Cache
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Release\Aspose.Diagram.dll

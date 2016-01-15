@@ -7,7 +7,6 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace WindowsFormsApplication2.Tests
 {
 
-
     [TestClass()]
     public class UnitTest1
     {

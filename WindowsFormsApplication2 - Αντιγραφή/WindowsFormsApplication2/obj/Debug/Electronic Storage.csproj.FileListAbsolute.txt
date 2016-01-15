@@ -31,11 +31,6 @@ C:\Users\strike xXx\Documents\Visual Studio 2015\Projects\WindowsFormsApplicatio
 C:\Users\strike xXx\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
 C:\Users\strike xXx\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
 C:\Users\strike xXx\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
-G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
-G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
-G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
-G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
-G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
 G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Debug\Aspose.Diagram.dll
 G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.dll
 G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.EventSourceAnalyzer.dll
@@ -60,3 +55,8 @@ G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFo
 G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
 G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
 G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\Debug\Electronic Storage.csproj.GenerateResource.Cache
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Debug\Electronic Storage.exe.config
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Debug\Electronic Storage.exe
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\bin\Debug\Electronic Storage.pdb
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\Debug\Electronic Storage.exe
+G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFormsApplication2\obj\Debug\Electronic Storage.pdb
