@@ -205,7 +205,6 @@ namespace WindowsFormsApplication2
                         selltable[i, 2] = "";
                         selltable[i, 3] = "";
                         selltable[i, 4] = "";
-                        
                     }
                     else
                     {
@@ -216,17 +215,10 @@ namespace WindowsFormsApplication2
                         selltable[i, 3] = "";
                         selltable[i, 4] = "";
                      }
-
                 }
                 selllen = -1;
                 listBox1.Items.Clear();
             }
-
-           
-
-
-
-
         }
 
         private void timer1_Tick(object sender, EventArgs e)

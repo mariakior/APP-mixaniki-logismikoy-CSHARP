@@ -143,7 +143,8 @@
             // sofialoumiotigmailcomToolStripMenuItem
             // 
             this.sofialoumiotigmailcomToolStripMenuItem.Name = "sofialoumiotigmailcomToolStripMenuItem";
-            this.sofialoumiotigmailcomToolStripMenuItem.Size = new System.Drawing.Size(69, 22);
+            this.sofialoumiotigmailcomToolStripMenuItem.Size = new System.Drawing.Size(255, 24);
+            this.sofialoumiotigmailcomToolStripMenuItem.Text = "mariakior@gmail.com";
             this.sofialoumiotigmailcomToolStripMenuItem.Click += new System.EventHandler(this.sofialoumiotigmailcomToolStripMenuItem_Click);
             // 
             // σοφιαToolStripMenuItem
@@ -153,7 +154,7 @@
             this.σοφιαToolStripMenuItem.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.σοφιαToolStripMenuItem.Name = "σοφιαToolStripMenuItem";
             this.σοφιαToolStripMenuItem.Size = new System.Drawing.Size(251, 24);
-            this.σοφιαToolStripMenuItem.Text = "ΛΟΥΜΙΟΤΗ ΣΟΦΙΑ ";
+            this.σοφιαToolStripMenuItem.Text = "ΛΟΥΜΙΩΤΗ ΣΟΦΙΑ ";
             this.σοφιαToolStripMenuItem.Click += new System.EventHandler(this.σοφιαToolStripMenuItem_Click);
             // 
             // sofialoumiotigmailcomToolStripMenuItem1
