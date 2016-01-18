@@ -63,3 +63,29 @@ G:\APP-mixaniki-c-github\WindowsFormsApplication2 - Αντιγραφή\WindowsFo
 G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\bin\Debug\Electronic Storage.exe.config
 G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\obj\Debug\Electronic Storage.exe
 G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\obj\Debug\Electronic Storage.pdb
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\bin\Debug\Electronic Storage.exe
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\bin\Debug\Electronic Storage.pdb
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\bin\Debug\Aspose.Diagram.dll
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\bin\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.dll
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\bin\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.EventSourceAnalyzer.dll
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\bin\Debug\MySql.Data.dll
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\bin\Debug\NetOffice.dll
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\bin\Debug\OfficeApi.dll
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\bin\Debug\System.Net.Http.Extensions.dll
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\bin\Debug\System.Net.Http.Primitives.dll
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\bin\Debug\VBIDEApi.dll
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\bin\Debug\stdole.dll
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\bin\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.xml
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\bin\Debug\Microsoft.Practices.EnterpriseLibrary.SemanticLogging.EventSourceAnalyzer.xml
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\bin\Debug\NetOffice.xml
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\bin\Debug\Newtonsoft.Json.xml
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\bin\Debug\OfficeApi.xml
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\bin\Debug\System.Net.Http.Extensions.xml
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\bin\Debug\System.Net.Http.Primitives.xml
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\bin\Debug\VBIDEApi.xml
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\obj\Debug\Electronic Storage.csprojResolveAssemblyReference.cache
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form2.resources
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form3.resources
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+G:\APP-mixaniki-c-github\Electronic Storage\WindowsFormsApplication2\obj\Debug\Electronic Storage.csproj.GenerateResource.Cache

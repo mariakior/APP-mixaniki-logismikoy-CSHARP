@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*  This aplication was created by the students from A.E.T. TT,
+on account of a project for the “Software Engineer”  class in  Department of Computer Systems Engineering,
+in piraeus university.
+This is  an electronic management system,
+which allows you to manage what is in storage,
+either you are an administrator or a visitor. */
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -839,4 +846,4 @@ namespace WindowsFormsApplication2
         }
     }
 }
-//Nikolas Papazian 41785
+//Nikolas Papazian A.M.:41785

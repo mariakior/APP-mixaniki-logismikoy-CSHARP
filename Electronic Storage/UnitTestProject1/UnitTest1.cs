@@ -1,4 +1,11 @@
-﻿using WindowsFormsApplication2;
+﻿/*  This aplication was created by the students from A.E.T. TT,
+on account of a project for the “Software Engineer”  class in  Department of Computer Systems Engineering,
+in piraeus university.
+This is  an electronic management system,
+which allows you to manage what is in storage,
+either you are an administrator or a visitor. */
+
+using WindowsFormsApplication2;
 using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
@@ -163,4 +170,4 @@ namespace WindowsFormsApplication2.Tests
     }
 }
 
-
+//Nikolas Papazian A.M.:41785
