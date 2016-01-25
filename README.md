@@ -1,5 +1,5 @@
-# APP-mixaniki-logismikoy-CSHARP
-mixaniki logismikoy
+
+MIXANIKI LOGISMIKOY
 
 This aplication was created by the students from A.E.I. PIRAEUS TT
 
